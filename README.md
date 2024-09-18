@@ -6,7 +6,7 @@ Welcome to the Coffee Application! This application allows users to browse and p
 
 The home page provides a modern and inviting layout showcasing a variety of coffee products. Users can easily navigate through the available options and view detailed product information.
 
-<img src="c01.png" alt="Home Page" width="900" />
+<img src="co1.png" alt="Home Page" width="900" />
 
 ### Features
 - **Product Browsing:** Users can scroll through a list of coffee products.
@@ -17,7 +17,7 @@ The home page provides a modern and inviting layout showcasing a variety of coff
 
 The cart page displays the products added by the user. It allows users to review their selections and proceed to checkout.
 
-<img src="c02.png" alt="Cart Page" width="900" />
+<img src="co2.png" alt="Cart Page" width="900" />
 
 ### Features
 - **View Cart Items:** Users can see all products added to their cart with options to modify quantities or remove items.
@@ -50,7 +50,7 @@ The cart page displays the products added by the user. It allows users to review
 
 The user registration page allows new users to create an account and log in securely.
 
-<img src="c03.png" alt="User Registration Page" width="900" />
+<img src="co3.png" alt="User Registration Page" width="900" />
 
 ### Features
 - **Sign-Up Form:** Simple form for creating a new account.
@@ -61,9 +61,9 @@ The user registration page allows new users to create an account and log in secu
 
 Here are some additional screenshots that showcase various aspects of the application:
 
-<img src="c04.png" alt="Additional Screenshot" width="900" />
-<img src="c05.png" alt="Additional Screenshot" width="900" />
-<img src="c06.png" alt="Additional Screenshot" width="900" />
+<img src="co4.png" alt="Additional Screenshot" width="900" />
+<img src="co5.png" alt="Additional Screenshot" width="900" />
+<img src="co.png" alt="Additional Screenshot" width="900" />
 
 ## Installation and Setup
 
