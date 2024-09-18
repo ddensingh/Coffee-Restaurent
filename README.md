@@ -17,7 +17,7 @@ The home page provides a modern and inviting layout showcasing a variety of coff
 
 The cart page displays the products added by the user. It allows users to review their selections and proceed to checkout.
 
-<img src="co2.png" alt="Cart Page" width="900" />
+<img src="co3.png" alt="Cart Page" width="900" />
 
 ### Features
 - **View Cart Items:** Users can see all products added to their cart with options to modify quantities or remove items.
@@ -50,7 +50,7 @@ The cart page displays the products added by the user. It allows users to review
 
 The user registration page allows new users to create an account and log in securely.
 
-<img src="co3.png" alt="User Registration Page" width="900" />
+<img src="co2.png" alt="User Registration Page" width="900" />
 
 ### Features
 - **Sign-Up Form:** Simple form for creating a new account.
@@ -63,7 +63,7 @@ Here are some additional screenshots that showcase various aspects of the applic
 
 <img src="co4.png" alt="Additional Screenshot" width="900" />
 <img src="co5.png" alt="Additional Screenshot" width="900" />
-<img src="co.png" alt="Additional Screenshot" width="900" />
+<img src="co6.png" alt="Additional Screenshot" width="900" />
 
 ## Installation and Setup
 
