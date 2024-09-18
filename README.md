@@ -1,0 +1,2 @@
+# Coffee-Restaurent
+ Welcome to Coffee Craze, the ultimate app for coffee enthusiasts! Discover premium coffee products with a beautifully designed UI and effortlessly add them to your cart. Securely register using Firebase for a personalized shopping experience, with options to sign up via email or Google. Enjoy seamless navigation, smooth interactions, and quick access to your favorite coffee. Elevate your coffee journey with ease, style, and simplicity!
