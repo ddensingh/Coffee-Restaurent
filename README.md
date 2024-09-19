@@ -1,97 +1,3 @@
-# Dens Gym-Application
-
-## Demo
-
-### Dashboard
-<div align="center">
-  <h3>This page refers to the payment methods, viewing more details about the product, and adding items to the cart. Already added items will be notified.</h3>
-  <img src="r1.png" alt="Dashboard" width="900" />
-  
-  <h3>This image shows the order details. The products added to the cart are displayed here, with options to delete products and view the total at the bottom.</h3>
-  <img src="r2.png" alt="Order Details" width="900" />
-  
-  <h3>This page displays pricing details for fitness counseling, including monthly plans, yearly plans, free trials, discounts, promotions, and policies.</h3>
-  <img src="r3.png" alt="Pricing Details" width="900" />
-  
-  <h3>The login page allows only authenticated users to log in, with password strength indicators (low, medium, high).</h3>
-  <img src="r4.png" alt="Login Page" width="900" />
-  
-  <h3>This is the home page of the Gym Application, showcasing the main features and layout.</h3>
-  <img src="r5.png" alt="Home Page" width="900" />
-  
-  <h3>Customer feedback and ratings about the products and training services are displayed here, including feedback for fitness and muscle building.</h3>
-  <img src="r6.png" alt="Customer Feedback" width="900" />
-  
-  <h3>These images show the available trainers for fitness, daily health, yoga, and bodybuilding. You can contact trainers for premium services.</h3>
-  <img src="r7.png" alt="Available Trainers" width="900" />
-  
-  <h3>Additional details about trainers, including their availability and contact information.</h3>
-  <img src="r8.png" alt="Trainer Details" width="900" />
-  
-  <h3>Products available for sale are displayed here.</h3>
-  <img src="r9.png" alt="Products for Sale" width="900" />
-</div>
-
-## Links
-
-- [Gym Application](https://gymapplication.vercel.app/)
-- [Densingh's Portfolio](https://densingh.vercel.app/)
-- [Restaurant Application](https://restaurent-alpha.vercel.app/)
-- [Coffee Application](https://github.com/yourusername/coffee-application)
-- 🔹 [Report Bug](https://github.com/ddensingh/issues)
-- 🔹 [Request Feature](https://github.com/ddensingh/issues)
-
-## Dens
-
-You can fork this repository to modify and make changes of your own. Please give proper credit by linking back to [Densingh](https://github.com/ddensingh). Thanks!
-
-## Built With
-
-My personal portfolio, [Densingh](https://densingh.vercel.app/), features some of my GitHub projects as well as my resume and technical skills.
-
-This project was built using these technologies:
-
-- **React.js**
-- **Node.js**
-- **Express.js**
-- **CSS3**
-- **VS Code**
-- **Vercel**
-
-## Features
-
-- 📖 **Multi-Page Layout**
-- 🎨 **Styled with React-Bootstrap and CSS with easy-to-customize colors**
-- 📱 **Fully Responsive**
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. **Clone this repository:**
-    ```bash
-    git clone https://github.com/ddensingh/dens-gym-application.git
-    ```
-
-2. **Navigate to the project directory:**
-    ```bash
-    cd dens-gym-application
-    ```
-
-3. **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-4. **Run the application:**
-    ```bash
-    npm start
-    ```
-
-   This command starts the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits.
-
----
-
 # Coffee Application
 
 Welcome to the Coffee Application! This application allows users to browse and purchase coffee products with a seamless and visually appealing user interface. Below is an overview of the key features and pages of the application.
@@ -151,31 +57,21 @@ The user registration page allows new users to create an account and log in secu
 - **Google Sign-In:** Option to sign in using Google for convenience.
 - **Validation:** Ensures all required fields are completed and provides feedback on errors.
 
+## Additional Screenshots
+
+Here are some additional screenshots that showcase various aspects of the application:
+
+<img src="co4.png" alt="Additional Screenshot" width="900" />
+<img src="co5.png" alt="Additional Screenshot" width="900" />
+<img src="co6.png" alt="Additional Screenshot" width="900" />
+
 ## Installation and Setup
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/coffee-application.git
-    ```
-
-2. **Navigate to the project directory:**
-    ```bash
-    cd coffee-application
-    ```
-
-3. **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-4. **Configure Firebase:** Set up Firebase and add your configuration to the project.
-
-5. **Run the application:**
-    ```bash
-    npm start
-    ```
-
----
+1. Clone the repository: git clone https://github.com/yourusername/coffee-application.git
+2. Navigate to the project directory: cd coffee-application
+3. Install dependencies: npm install
+4. Configure Firebase: Set up Firebase and add your configuration to the project.
+5. Run the application: npm start
 
 ## Contributing
 
@@ -186,5 +82,10 @@ Feel free to contribute to the project by submitting pull requests or opening is
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+other project:
+### Demo Link:
 
+- [Gym Application](https://gymapplication.vercel.app/)
+- [Portfolio](https://densingh.vercel.app/)
+- [Restaurant Application](https://restaurent-alpha.vercel.app/)
 Enjoy using the Coffee Application! If you have any questions or need further assistance, please contact us.
